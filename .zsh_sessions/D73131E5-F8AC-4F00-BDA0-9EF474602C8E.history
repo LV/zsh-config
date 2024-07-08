@@ -1,0 +1,792 @@
+tmux
+brew install tmux
+nvim
+vim
+vim .zshenv
+echo $0
+vim .zshenv
+echo $XDG_CONFIG_HOME
+vim ~/.config/zsh/.zprofile
+vim ~/.config/zsh/.zprofile
+vim ~/.config/zsh/.zprofile
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zprofile
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zprofile
+tmux
+vim ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zprofile
+vim ~/.config/zsh/.zshrc
+ls
+mv .zshenv .zshenv2
+echo $PATH
+/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+vim ~/.config/zsh/.zshrc
+exit
+cd .config
+lg
+v zsh/.zprofile
+lg
+ls
+cd ../
+ls
+mv .zshenv .config
+ls
+ln -s ~/.config/.zshenv ~/.zshenv
+cd ../
+cd ~./config
+cd ~/.config
+lg
+v .gitignore
+lg
+clear
+ls
+v
+ls
+clear
+ls
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim zsh/.zshrc
+nvim alacritty/alacritty.toml
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+lg
+nvim nvim/init.lua
+lg
+clear
+lg
+exit
+exit
+cd .config
+ls
+lg
+lg
+rm .git/index.lock
+lg
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+lg
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+lg
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim nvim/init.lua
+nvim
+nvim .
+cd ../
+ls
+mkcdir Dev
+ls
+nvim nvim/init.lua
+sudo scutil --set HostName lambdabook
+exit
+exit
+cat > /dev/null << EOF\
+Hello World!\
+============================================================\
+\
+              _.-------.._                    -,\
+          .-"'''"--..,,_/ /'-,               -,  \\
+       .:"          /:/  /'\  \     ,_...,  '. |  |\
+      /       ,----/:/  /'\ _\~'_-"'     _;\
+     '      / /'"""'\ \ \.~'_-'      ,-"'/\
+    |      | |  0    | | .-'      ,/'  /\
+   |    ,..\ \     ,.-"'       ,/'    /\
+  ;    :    '/'""\'           ,/--==,/-----,\
+  |    '-...|        -.___-Z:_______J...---;\
+  :         '                           _-'\
+ _L_  _     ___  ___  ___  ___  ____--"'\
+| __|| |   |_ _|| _ \| _ \| __|| _ \\
+| _| | |__  | | |  _/|  _/| _| |   /\
+|_|  |____||___||_|  |_|  |___||_|_\\
+\
+Flipper Zero BadUSB feature is compatible with USB Rubber Ducky script format\
+More information about script syntax can be found here:\
+https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/file_formats/BadUsbScriptFormat.md\
+EOF
+nvim nvim/init.lua
+nvim ~/.config/nvim/init.lua
+ls
+cd Dev
+ls
+ls
+ls
+ls
+ls
+git clone git@github.com:LV/lib
+cd lib
+ls
+lg
+ls
+cd ~/.config
+lg
+ls
+ls
+v nvim/init.lua
+v nvim/init.lua
+clear
+cd ~
+cat > /dev/null << EOF\
+Hello World!\
+============================================================\
+\
+              _.-------.._                    -,
+OF
+clear
+ls
+nvim .config/zsh/.zshrc
+\:q
+nvim .config/zsh/.zshrc
+ls
+clear
+ls
+cd Dev
+ls
+cleaer
+ls
+clear
+ls
+cd lib
+ls
+ls -alh
+cd ../
+rm -rf lib
+ls
+clear
+ls
+cd Dev
+ls
+ls
+cd Dev
+ls
+cd Dev
+ls
+git clone git@github.com:LV/CompetitiveProgramming
+cd CompetitiveProgramming
+v
+cd Dev
+cd CompetitiveProgramming
+ls
+cd CodeForces
+ls
+nvim 4A.cpp
+nvim 71A.cpp
+tmux
+tmux attach
+ls
+cd ..;/
+cd ../
+ls
+cd UltraCapcitor
+ls
+mv notes notes2
+git clone git@github.com:ultracapacitor/notes
+mv notes2/pilot_stream.org notes
+rm -rf notes2
+cd notes
+ls
+mv pilot_stream.org 20240223-pilot_stream.org
+ls
+mkcdir
+mkcdir log
+mv ../20240223-pilot_stream.org .
+ls
+clear
+cd ../
+mv log journal
+g++
+g++ 71A.cpp && ./a.out ; rm ./a.out
+3
+brew install gcc
+g++ 71A.cpp && ./a.out ; rm ./a.out
+gcc 71A.cpp && ./a.out ; rm ./a.out
+hvv-brtdion
+ cd /Library/Developer/CommandLineTools/usr/include
+ls
+sudo mkdir bits
+sudo mkcdir bits
+sudo mkdir bits
+sudo cd bits
+ls
+cd bits
+ls
+sudo cp ~/Downloads/stdc++.h stdc++.h
+cd ~/Dev/CompetitiveProgramming/CodeForces
+ls
+g++ 71A.cpp && ./a.out ; rm ./a.out
+g++ 71A.cpp && ./a.out ; rm ./a.out
+sudo cp ~/Downloads/stdc++.h stdc++.h
+ls
+rm stdc++.h
+brew install cmake
+rm -rf ~/.config/zed
+cd ~
+ls
+git clone https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized.git && cd SFMono-Nerd-Font-Ligaturized
+ls
+open
+open .
+clear
+nvim
+nvim
+v
+nvim 71A.cpp
+nvim 71A.cpp
+nvim 71A.cpp
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+nvim 71A.cpp
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+g++ 71A.cpp && ./a.out ; rm ./a.out
+nvim 71A.cpp
+nvim 4A.cpp
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+word
+localization
+internationalization
+g++ 71A.cpp && ./a.out ; rm ./a.out
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+\:q
+nvim 71A.cpp
+g++ 71A.cpp && ./a.out ; rm ./a.out
+nvim 71A.cpp
+nvim 71A.cpp
+nvim 231A.cpp
+g++ 231A.cpp && ./a.out ; rm ./a.out
+nvim 231A.cpp
+nvim 231A.cpp
+g++ 231A.cpp && ./a.out ; rm ./a.out
+2\
+1 0 0\
+0 1 1
+g++ 231A.cpp && ./a.out ; rm ./a.out
+nvim 231A.cpp
+nvim 231A.cpp
+ls
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/init.lua
+cd ~/.config/nvim
+nvim init.lua
+nvim init.lua
+brew tap jimeh/emacs-builds
+brew install --cask emacs-app-nightly-29
+brew tap d12frosted/emacs-plus
+brew install emacs-plus@29 --with-native-comp
+emacs
+cd ~
+cd .config
+make doom
+emacs
+emacs
+emacs
+emacs
+git status
+ls
+doom sync
+emacs
+emacs
+ls
+cd Dev
+ls
+cd ../
+ls
+brew install go
+cd Dev
+ls
+cd CompetitiveProgramming
+ls
+cd Neetcode
+ls
+cd ArraysAndHashing
+ls
+cd ../
+ls
+rm -rf ArraysAndHashing Sorting
+ls
+rm -rf Neetcode
+ls
+cd ../
+rm -rf Neetcode
+go init Neetcode
+exit
+tmux
+cd Dev/CompetitiveProgramming
+ls
+go init Neetcode
+go mod init Neetcode
+ls
+ls
+rm go.mod
+ls
+mkcdir 
+mkcdir Neetcode
+go mod init Neetcode
+ls
+go test
+ls
+cd Sorting
+go test
+go test
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+git clone git@github.com:LV/lv.txt
+cd lv.txt
+lg
+v lv.txt
+dlea4r
+clear
+emacs
+exit
+clear
+cd ../
+ls
+cd AdventOfCode/2015
+ls
+pwd
+brew install rust
+cargo new rust
+open .
+tmux
+cd AdventOfCode/2015/rust
+cd src
+mv 01-1.rs 01_1.rs
+clear
+ls
+mv 01_1.rs day01_1.rs
+cargo run -- 1_1
+cargo run -- 01_1
+cargo run -- 01_
+cargo run -- 01_1
+cargo run -- 01_1
+ls
+exit
+tmux
+tmux attach
+emacs
+emacs
+emacs
+exit
+exit
+ls
+cd AdventOfCode
+ls
+cd 2015
+ls
+cd python
+ls
+python3 01-1.py
+python3 01-1.py
+python3 01-2.py
+python3 01-2.py
+brew install pyright
+ls
+python3 02-1.py
+python3 02-1.py
+python3 01-1.py
+python3 01-2.py
+python3 02-1.py
+python3 02-2.py
+python3 02-2.py
+python3 03-1.py
+ls
+cd ../
+cd ../
+cd ../
+ls
+cd python3 -m venv venv
+python3 -m venv venv
+mv AdventOfCode/requirements.txt .
+ls
+cat requirements.txt
+pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
+ls
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+cd AdventOfCode/2015/python
+ls
+python3 02-2.py
+python3 03-1.py
+python3 03-2.py
+python3 04-1.py
+python3 04-2.py
+python3 05-1.py
+python3 05-2.py
+python3 06-1.py
+python3 06-2.py
+cd ../rust
+ls
+mv 01-1.rs src
+ls
+cd src
+ls
+emacs
+clear
+ls
+cd ../
+ls
+cd ../
+ls
+cd input
+ls
+pwd
+r
+pwd
+clear
+ls
+cd ../
+cd ls
+ls
+cd rust
+ls
+cargo run -- 01_1
+cargo run -- 0
+clear
+exit
+tmux
+tmux attach
+tmux attach 0
+tmux attach
+tmux attach
+emux kill-all
+tmux kill-all
+tmux
+emacs
+tmux attach
+tmux attach
+tmux attach
+tmux attach
+tmux attach
+tmux attach
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+ls
+cd UltraCapcitor
+ls
+cd notes
+ls
+git status
+git add .
+ls
+git status
+git reset --hard
+ls
+git status
+mkcdir research
+v uranium_stock.md
+tmux attach
+ls
+cd Dev/CompetitiveProgramming
+ls
+cd AdventOfCode
+ls
+cd 2016/main.go
+cd 2016
+ls
+v main.go
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+clear
+go run . -day 1 -part 2
+mv day01_1.go day01.go
+clear
+go run . -day 1 -part 2
+go run . -day 1 -part 1
+go run . -day 1 -part 2
+go test
+go test
+go test
+go test
+go test
+go test
+go test
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go test
+go test
+go test
+go test
+go test
+go test
+go test
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+go run . -day 1 -part 2
+go run . -day 1 -part 1
+go run . -day 1 -part 1
+lg
+cd ~
+ls
+cd Dev
+ls
+git clone git@github.com:LV/CSAPP
+cd CSAPP
+ls
+ls
+ln -s ~/vault/CS-APP.md kanban.md
+lg
+ls
+v kanban.md
+git diff
+git status
+git diff
+git stauts
+git status
+lg
+lg
+v README.md
+lg
+v .gitignore
+lg
+lg
+cd ~
+ls
+cd Dev
+ls
+cd ../
+cd .config
+ls
+cd nvim
+ls
+v
+nvim
+lg
+v
+ls
+v
+v .
+v .
+v .
+v .
+v .
+ls
+cd ../
+cd ~/Dev/CSAPP
+ls
+v README.md
+v README.md
+v ~/.config/nvim/init.lua
+v README.md
+v README.md
+v ~/.config/nvim/init.lua
+v README.md
+v kanban.md
+brew install ripgrep
+v ~/.config/nvim/init.lua
+v ~/.config/nvim/init.lua
+v ~/.config/nvim/init.lua
+v README.md
+v kanban.md
+v kanban.md
+v kanban.md
+v ~/.config/nvim/init.lua
+v kanban.md
+ls
+v kanba.md
+ls
+cd ../
+ls
+cd ../
+ls
+cd UltraCapcitor
+v login
+emacs
+emacs
+ls
+v twitch.txt
+v twitch.txt
+exit
+exit
+ls
+cd ../
+ls
+cd ../
+cd ~
+cd ../ultracapacitor
+ls
+cd Dev
+ls
+cargo new rpi_twitch
+sudo cargo new rpi_twitch
+ls
+cd rpi_twitch
+ls
+git status
+git config --global --add safe.directory /Users/ultracapacitor/Dev/rpi_twitch
+ls
+git status
+git add l
+git add .
+sudo git add .
+ls
+sudo git status
+sudo git commit -m "cargo new rpi_twitch"
+sudo git remote add origin git@github.com:LV/rpi_twitch.git
+sudo git push origin master
+cd ~
+ls
+cd Dev
+ls
+cargo new rpi_twitch
+cd rpi_twitch
+ls
+git status
+git add .
+git commit -m "cargo new rpi_twitch"
+git remote add origin git@github.com:LV/rpi_twitch.git
+git push origin master
+cargo add twitchchat
+ls
+\:q
+exit
+cd .config
+git pull
+cd ../;
+cd ~
+ls
+cd .config
+ls
+cd alacritty
+ls
+mv alacritty.toml alacritty-windows.toml
+cp alacritty-windows.toml alacritty.toml
+nvim alacritty.toml
+vim alacritty.toml
+vim alacritty.toml
+doom sync
+vim alacritty.toml
+clear
+vim alacritty.toml
+vim alacritty.toml
+emacs -nw
+exit
+doom sync
+emacs -nw
+emacs -nw
+clear
+emacs -nw
+exit
+emacs
+emacs
+emacs
+emacs
+emacs
+exit
+emacs
+emacs
+clear
+exit
+emacs -nw
+exit
+ls
+cd .config
+ls
+cd kitty
+ls
+nvim kitty.conf.
+exit
+exit
+ls
+cd Dev
+ls
+cd ../
+ls
+cd .config/kitty
+ls
+mv kitty.conf kitty.conf
+mv kitty.conf. kitty.conf
+exit
+exit
+exit
+emacs -nw
+ls
+nvim Dev/CompetitiveProgramming/AdventOfCode/2015/rust/src/day07_1.rs
+v
+v Dev/CompetitiveProgramming/AdventOfCode/2015/rust/src/day07_1.rs
+emacs -nw
+exit
+emacs -nw
+em
+emacs -n
+emacs -nw
+nvim .config/kitty/kitty.conf
+exit
+exit
+emacs -nw
+emacs -nw
+emacs -nw
+v
+v .zshrc
+lg
+ls
+cd .config
+ls
+cd zsh
+ls
+ls -alh
+v .zshrc
+\:q
+exit!
+exit
+exit
+v
+em
+exit
+ssh -p 2022 testuser@localhost
